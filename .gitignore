@@ -1,0 +1,11 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+output/
+logs/
+.env
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
