@@ -1,0 +1,11 @@
+db:
+  host: "localhost"
+  port: 5432
+  name: "claimbridge"
+  user: "postgres"
+  password: "postgres"
+
+cloud:
+  provider: "local"
+  raw_bucket: "claimbridge-raw"
+  curated_bucket: "claimbridge-curated"

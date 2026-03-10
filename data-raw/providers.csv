@@ -1,0 +1,51 @@
+provider_id,npi,provider_name,specialty,network_status
+P0001,1000000001,Provider 1,Cardiology,IN
+P0002,1000000002,Provider 2,Cardiology,OUT
+P0003,1000000003,Provider 3,Hospital,IN
+P0004,1000000004,Provider 4,Endocrinology,IN
+P0005,1000000005,Provider 5,Cardiology,IN
+P0006,1000000006,Provider 6,Cardiology,IN
+P0007,1000000007,Provider 7,Endocrinology,IN
+P0008,1000000008,Provider 8,Cardiology,IN
+P0009,1000000009,Provider 9,Primary Care,IN
+P0010,1000000010,Provider 10,Primary Care,OUT
+P0011,1000000011,Provider 11,Endocrinology,IN
+P0012,1000000012,Provider 12,Hospital,IN
+P0013,1000000013,Provider 13,Hospital,OUT
+P0014,1000000014,Provider 14,Endocrinology,IN
+P0015,1000000015,Provider 15,Endocrinology,IN
+P0016,1000000016,Provider 16,Primary Care,OUT
+P0017,1000000017,Provider 17,Hospital,IN
+P0018,1000000018,Provider 18,Cardiology,IN
+P0019,1000000019,Provider 19,Primary Care,IN
+P0020,1000000020,Provider 20,Endocrinology,IN
+P0021,1000000021,Provider 21,Hospital,IN
+P0022,1000000022,Provider 22,Cardiology,IN
+P0023,1000000023,Provider 23,Cardiology,OUT
+P0024,1000000024,Provider 24,Primary Care,IN
+P0025,1000000025,Provider 25,Hospital,IN
+P0026,1000000026,Provider 26,Hospital,IN
+P0027,1000000027,Provider 27,Endocrinology,IN
+P0028,1000000028,Provider 28,Hospital,IN
+P0029,1000000029,Provider 29,Hospital,IN
+P0030,1000000030,Provider 30,Primary Care,IN
+P0031,1000000031,Provider 31,Hospital,IN
+P0032,1000000032,Provider 32,Cardiology,OUT
+P0033,1000000033,Provider 33,Primary Care,IN
+P0034,1000000034,Provider 34,Primary Care,OUT
+P0035,1000000035,Provider 35,Endocrinology,IN
+P0036,1000000036,Provider 36,Hospital,OUT
+P0037,1000000037,Provider 37,Endocrinology,IN
+P0038,1000000038,Provider 38,Cardiology,IN
+P0039,1000000039,Provider 39,Primary Care,IN
+P0040,1000000040,Provider 40,Primary Care,IN
+P0041,1000000041,Provider 41,Primary Care,IN
+P0042,1000000042,Provider 42,Cardiology,IN
+P0043,1000000043,Provider 43,Cardiology,IN
+P0044,1000000044,Provider 44,Endocrinology,IN
+P0045,1000000045,Provider 45,Endocrinology,IN
+P0046,1000000046,Provider 46,Endocrinology,IN
+P0047,1000000047,Provider 47,Hospital,IN
+P0048,1000000048,Provider 48,Primary Care,IN
+P0049,1000000049,Provider 49,Primary Care,IN
+P0050,1000000050,Provider 50,Endocrinology,OUT
