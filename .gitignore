@@ -9,3 +9,7 @@ logs/
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
+.Renviron
+reports/claims_report_files/
+reports/*.png
+reports/*.html
